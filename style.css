@@ -1,4 +1,36 @@
+body{
+    width: 50%;
+    background-color: black;
+    background-image: url("https://wallpapers.com/images/featured/air-jordan-rzjnqjw5ozl4xvxo.jpg");
+    background-size: cover;
+    border: 1px;
+    color: beige;
+    
+}
+h1{
+    color: rgb(203, 137, 151);
+    align-items: center;
+    margin-left: 400px;  
+}
+#jordan1{
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin-left: 30px;
+    margin-right: auto;
+    
+}
+#jordan2{
+    height: 300px;
+    width: 500px;
+    margin-left: 700px;
+    margin-right: auto;
+    
+}
+
+
 /* Write Your CSS Below 
+
 Colors: 
 - rgb(243, 183, 106)
 - yellow
